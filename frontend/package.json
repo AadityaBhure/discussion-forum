@@ -1,0 +1,12 @@
+{
+  "name": "discussion-forum-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for clean glass UI discussion forum",
+  "scripts": {
+    "start": "live-server --port=3000 --browser=chrome"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
